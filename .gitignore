@@ -1,0 +1,14 @@
+# no .db files
+*.db
+# no .log files
+*.log
+# no directories named target on the top level
+target/
+# no directories named bin on the top level
+bin/
+
+# if we want to hide both top-level and subdirectory we can use a code below
+# no directories named target on the both top-level and subdirectory
+# **/target/
+# no directories named target on the both top-level and subdirectory
+# **/bin/

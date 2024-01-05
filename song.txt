@@ -62,3 +62,5 @@ Tell me why are we so blind to see
 That the ones we hurt are you and me?
 
 text for the first commit on the feature branch
+
+text for the second commit on the feature branch
